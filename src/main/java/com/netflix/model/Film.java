@@ -8,7 +8,7 @@
 //documentare il metodo del dao del film che effettua la ricerca tramite java api
 //documentare tramite swagger il servizio reset
 
-
+//deve girare su un server
 
 
 package com.netflix.model;
